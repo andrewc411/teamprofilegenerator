@@ -19,7 +19,8 @@ Node.js
 ```
 
 ## Video Demo
-![image](https://user-images.githubusercontent.com/88997322/140797059-6815b95e-471f-42be-8543-0220b3d8c6bb.png)
+
+![image](https://user-images.githubusercontent.com/88997322/140797140-1bb612f1-2975-4de5-aba0-4cc2fc9a0ee8.png)
 
 
 https://youtu.be/dNNzgPXHgZE
